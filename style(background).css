@@ -1,0 +1,230 @@
+body{
+	margin: 0;
+}
+.bg-danger{
+	background: red;
+}
+.bg-blue{
+	background: blue;
+}
+.bg-success{
+	background: green;
+}
+.bg-grey{
+	background: grey;
+}
+.bg-dark{
+	background: #252525;
+}
+.bg-darkgrey{
+	background: darkgrey;
+}
+.bg-search{
+	background-image: url(search.png);
+	background-size: 100% 100%;
+}
+.bg-banner{
+	background-image: url(banner.jpg);
+	background-size: 100% 100%;
+}
+
+.bg-map{
+	background-image: url(Map.jpeg);
+	background-size: 100% 100%;
+}
+.bg-logo-up{
+	background-image: url(logok.png);
+	background-size: 100% 100%;
+}
+.bg-logo-down{
+	background-image: url(logo2.jpg);
+	background-size: 100% 100%;
+}
+.bg-steel{
+	background-image: url(steel2.png);
+	background-size: 100% 100%;
+}
+.c-rust{
+	color: #CE422B;
+}
+.c-white{
+	color: beige;
+}
+.c-black{
+	color: black;
+}
+.c-none{
+	opacity: 0;
+}
+.bg-small{
+	background-image: url(smallrt.jpg);
+	background-size: 100% 100%;
+	transition: 1s;
+}
+.bg-small:hover{
+	transform: scale(1.2);
+}
+.bg-factory{
+	background-image: url(factory.jpg);
+	background-size: 100% 100%;
+	transition: 1s;
+}
+.bg-factory:hover{
+	transform: scale(1.2);
+}
+.bg-hangar{
+	background-image: url(hangar.jpg);
+	background-size: 100% 100%;
+	transition: 1s;
+}
+.bg-hangar:hover{
+	transform: scale(1.2);
+}
+.bg-bigrt{
+	background-image: url(bigrt.jpg);
+	background-size: 100% 100%;
+	transition: 1s;
+}
+.bg-bigrt:hover{
+	transform: scale(1.2);
+}
+.bg-tanks{
+	background-image: url(tanks.jpg);
+	background-size: 100% 100%;
+	transition: 1s;
+}
+.bg-tanks:hover{
+	transform: scale(1.2);
+}
+.bg-wood{
+	background-image: url(wood.jpg);
+	background-size: 100% 100%;
+	transition: 1s;
+}
+.bg-wood:hover{
+	transform: scale(1.2);
+}
+.bg-metal{
+	background-image: url(metal.jpg);
+	background-size: 100% 100%;
+	transition: 1s;
+}
+.bg-metal:hover{
+	transform: scale(1.2);
+}
+.bg-sulfur{
+	background-image: url(sulfur.jpg);
+	background-size: 100% 100%;
+	transition: 1s;
+}
+.bg-sulfur:hover{
+	transform: scale(1.2);
+}
+.bg-stone{
+	background-image: url(stones.jpg);
+	background-size: 100% 100%;
+	transition: 1s;
+}
+.bg-stone:hover{
+	transform: scale(1.2);
+}
+.bg-tree{
+	background-image: url(tree.jpg);
+	background-size: 100% 100%;
+	transition: 1s;
+}
+.bg-tree:hover{
+	transform: scale(1.2);
+}
+.bg-p250{
+	background-image: url(p250.jpg);
+	background-size: 100% 100%;
+	transition: 1s;
+}
+.bg-p250:hover{
+	transform: scale(1.2);
+}
+.bg-shotgun{
+	background-image: url(shotgun.jpg);
+	background-size: 100% 100%;
+	transition: 1s;
+}
+.bg-shotgun:hover{
+	transform: scale(1.2);
+}
+.bg-mp5a4{
+	background-image: url(mp5a4.jpg);
+	background-size: 100% 100%;
+	transition: 1s;
+}
+.bg-mp5a4:hover{
+	transform: scale(1.2);
+}
+.bg-bolt{
+	background-image: url(bolt.jpg);
+	background-size: 100% 100%;
+	transition: 1s;
+}
+.bg-bolt:hover{
+	transform: scale(1.2);
+}
+.bg-m4{
+	background-image: url(m4.jpg);
+	background-size: 100% 100%;
+	transition: 1s;
+}
+.bg-m4:hover{
+	transform: scale(1.2);
+}
+.bg-medbox{
+	background-image: url(med_box.jpg);
+	background-size: 100% 100%;
+	transition: 1s;
+}
+.bg-medbox:hover{
+	transform: scale(1.2);
+}
+.bg-greenbox{
+	background-image: url(green_box.jpg);
+	background-size: 100% 100%;
+	transition: 1s;
+}
+.bg-greenbox:hover{
+	transform: scale(1.2);
+}
+.bg-woodbox{
+	background-image: url(box_wooden.jpg);
+	background-size: 100% 100%;
+	transition: 1s;
+}
+.bg-woodbox:hover{
+	transform: scale(1.2);
+}
+.bg-weaponbox{
+	background-image: url(weapon_box.jpg);
+	background-size: 100% 100%;
+	transition: 1s;
+}
+.bg-weaponbox:hover{
+	transform: scale(1.2);
+}
+.bg-airdrop{
+	background-image: url(Airdrop.webp);
+	background-size: 100% 100%;
+	transition: 1s;
+}
+.bg-airdrop:hover{
+	transform: scale(1.2);
+}
+.bg-army{
+	background: #6c786b;
+}
+.bg-weapon{
+	background: #6a8a89;
+}
+.bg-res{
+	background-color: #826d80;
+}
+.bg-wooden{
+	background: #686b4b;
+}

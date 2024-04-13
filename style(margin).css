@@ -1,0 +1,124 @@
+@font-face{
+	font-family: Zing Rust Halftone B2;
+	src: url(zingrusthb2_base2linesh1.otf);
+}
+.f-f{
+	font-family: Zing Rust Halftone B2;
+}
+body{
+	margin: 0;
+}
+.td-n{
+	text-decoration: none;
+}
+.mt-0{
+	margin-top: 0px;
+}
+.mb-0{
+	margin-bottom: 0px;
+}
+.mb-60{
+	margin-bottom: 150px;
+}
+.d-flex{
+	display: flex;
+}
+.mt-0{
+	margin-top: 0px;
+}
+.mx-auto{
+	margin-left: auto;
+	margin-right: auto;
+}
+.mt-50{
+	margin-top: 50px;
+}
+.mt-40{
+	margin-top: 40px;
+}
+.mt-20{
+	margin-top: 20px;
+}
+.mt-150{
+	margin-top: 150px;
+}
+.mt-200{
+	margin-top: 200px;
+}
+.ml-100{
+	margin-left: 100px;
+}
+.ml-30{
+	margin-left: 30px;
+}
+.text-center{
+	text-align: center;
+}
+.border-n{
+	border: none;
+}
+.pb-20{
+	padding-bottom: 20px;
+}
+.pt-30{
+	padding-top: 30px;
+}
+.pl-50{
+	padding-left: 50px;
+}
+.pt-50{
+	padding-top: 50px;
+}
+.borders{
+	border: 1px solid black;
+}
+.border-r{
+	border-radius: 20px;
+}
+.border-rr{
+	border-radius: 25px;
+}
+.fs-100{
+	font-size: 100px;
+}
+.fs-35{
+	font-size: 35px;
+}
+.fs-65{
+	font-size: 65px;
+}
+.fs-60{
+	font-size: 60px;
+}
+.fs-45{
+	font-size: 45px;
+}
+.fs-40{
+	font-size: 40px;
+}
+.fw-bold{
+	font-weight: bold;
+}
+.zoom-effects{
+	transform: scale(1.0);
+	transition: 0.5s;
+}
+.zoom-effects:hover{
+	transform: scale(1.5);
+}
+.txt {
+  opacity: 0;
+  font-size: 29px;
+  font-family: 'Segoe UI';
+  text-align: center;
+  color: #fff;
+  transition: .5s ease;
+  height: 300px;
+  border-radius: 20px;
+}
+
+.txt:hover  {
+  opacity: 1;
+  background: rgba(1, 1, 1, 0.5);
+  cursor: pointer;
+}
